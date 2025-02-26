@@ -1,4 +1,4 @@
-## GitHub - My Notes from Alura Course
+## GitHub
 
 ### What is GitHub?
 
