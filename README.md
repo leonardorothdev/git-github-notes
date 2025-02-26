@@ -42,7 +42,7 @@ This repository serves as a playground to:
 
 ## Certificates
 
-The `certificados/` folder contains all the certificates earned from completing Git and GitHub courses, showcasing milestones in my learning journey.
+The `certificates/` folder contains all the certificates earned from completing Git and GitHub courses, showcasing milestones in my learning journey.
 
 ---
 
